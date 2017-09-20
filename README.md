@@ -1,2 +1,2 @@
-# Kaggle2
+# Kaggle
 Repository for all Kaggle code
